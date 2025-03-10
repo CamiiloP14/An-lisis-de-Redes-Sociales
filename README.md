@@ -17,8 +17,7 @@
 * [Metodología](#metodología)
 * [Resultados clave](#resultados-clave)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
-* [Estructura del proyecto](#estructura-del-proyecto)
-* [Conclusiones](#conclusiones)
+* [Aplicaciones potenciales](#aplicaciones-potenciales)
 
 # Introducción
 Este proyecto realiza un análisis de redes sociales utilizando datos del estudio longitudinal **Add Health** (National Longitudinal Study of Adolescent to Adult Health), enfocado en entender las dinámicas de amistad y actividades sociales en adolescentes estadounidenses.
@@ -79,7 +78,17 @@ El análisis se desarrolló en 6 etapas principales:
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
 
 **Paquetes principales**
-```r
+
 - igraph (análisis de redes)
 - ggplot2 (visualizaciones)
 - dplyr (manipulación de datos)
+
+# Aplicaciones potenciales
+- Diseño de programas escolares contra el bullying
+- Identificación de estudiantes en riesgo social
+- Optimización de estrategias de intervención comunitaria
+
+# Repositorio
+- 📌 Repositorio del proyecto: github.com/tuusuario/addhealth-redes
+- 📧 Contacto: cpedreros488@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/tuperfil](https://www.linkedin.com/in/camilo-pedreros-106a1a245/)
