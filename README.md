@@ -1,12 +1,8 @@
 <h1 align="center"> Análisis de Redes Sociales en Adolescentes - Estudio Add Health </h1>
 
 <p align="center">
-   <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fdrea.mep.go.cr%2Fetir%2Friesgos-de-la-internet-y-las-redes-sociales-para-las-personas-menores-de-edad&psig=AOvVaw08PFIVrow9Lm3BoDMChzxx&ust=1741709521215000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjD8t7z_4sDFQAAAAAdAAAAABAj)">
+   <img width= "700", height="400" src="Images/portada de redes sociales.webp">
 
-</p>
-
-<p align="center">
-  <img width="700" src="media/network_visualization.png">
 </p>
 
 # Tabla de contenidos
@@ -118,4 +114,4 @@ con alto grado de centralidad probablemente tengan una gran visibilidad o popula
 # Repositorio
 - 📌 Repositorio del proyecto: [Proyecto Análisis de Redes](https://github.com/CamiiloP14/Analisis-de-Redes-Sociales)
 - 📧 Contacto: cpedreros488@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/tuperfil](https://www.linkedin.com/in/camilo-pedreros-106a1a245/)
+- 🔗 LinkedIn: [Camilo Pedreros](https://www.linkedin.com/in/camilo-pedreros-106a1a245/)
