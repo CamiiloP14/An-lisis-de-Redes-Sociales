@@ -55,7 +55,7 @@ En el sociograma, se puede notar que los nodos femeninos (en rosa) tienden a est
 lo que sugiere que las mujeres forman una red de amigas más sólida en comparación con las conexiones entre hombres (en verde).
 Esto podría reflejar una dinámica de género donde las mujeres tienden a construir amistades más cercanas.
    
-4. **Métricas de centralidad**  
+5. **Métricas de centralidad**  
    - Cálculo de grado (degree) y betweenness
    - Densidad de la red
 
