@@ -1,9 +1,8 @@
 <h1 align="center"> Análisis de Redes Sociales en Adolescentes - Estudio Add Health </h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-EN%20PROCESO-yellow">
-   <img src="https://img.shields.io/badge/R-4.3.2-blue">
-   <img src="https://img.shields.io/badge/igraph-1.5.1-orange">
+   <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fdrea.mep.go.cr%2Fetir%2Friesgos-de-la-internet-y-las-redes-sociales-para-las-personas-menores-de-edad&psig=AOvVaw08PFIVrow9Lm3BoDMChzxx&ust=1741709521215000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjD8t7z_4sDFQAAAAAdAAAAABAj)">
+
 </p>
 
 <p align="center">
