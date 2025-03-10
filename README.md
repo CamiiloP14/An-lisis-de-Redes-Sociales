@@ -45,27 +45,55 @@ El análisis se desarrolló en 6 etapas principales:
    - Asignación de atributos a nodos
 
 3. **Visualización básica**  
-   - Sociograma inicial con diseño ForceAtlas2
-   - Colorización por género y escuela
+   - Sociograma inicial
+     <p align="center">
+  <img width="400" src="Images/Imagen1.png">
+</p>
 
+4. **Visualización mejorada**  
+   - Tamaño de nodos por grado
+   - Color por genero
+       <p align="center">
+  <img width="700" src="Images/Imagen2.png">
+</p>
+En el sociograma, se puede notar que los nodos femeninos (en rosa) tienden a estar más conectados entre sí,
+lo que sugiere que las mujeres forman una red de amigas más sólida en comparación con las conexiones entre hombres (en verde).
+Esto podría reflejar una dinámica de género donde las mujeres tienden a construir amistades más cercanas.
+   
 4. **Métricas de centralidad**  
    - Cálculo de grado (degree) y betweenness
    - Densidad de la red
 
-5. **Visualización mejorada**  
-   - Tamaño de nodos por grado
-   - Color por raza (puntos extra)
+   Los valores varían desde 0 hasta 22. Los nodos con los grados más altos tienen 15, 19, y 22 conexiones.
+   Estos nodos actúan como centros de actividad dentro de la red, ya que tienen muchas conexiones directas con otros nodos. 
+   Por otro lado, algunos nodos tienen grado 0, lo que significa que no tienen conexiones directas.
+
+   Grado promedio: El grado promedio de 8.59 indica que, en promedio, cada nodo tiene alrededor de 8 conexiones directas 
+   en la red. Esto nos da una idea general de cuán conectada está la red.
+
 
 6. **Detección de comunidades**  
    - Algoritmo Walktrap
    - Visualización de clusters
+       <p align="center">
+  <img width="700" src="Images/Imagen4.png">
+</p>
+En la visualización correspondiente a 4 pasos, se observan 7 comunidades, de las cuales 5 son de gran tamaño, 
+mientras que las otras 2 están desconectadas y consisten en un solo nodo cada una.
+Por otro lado, al analizar el gráfico de 3 pasos, se identifican alrededor de 8 comunidades,
+de las cuales 5 también son de gran tamaño. Sin embargo, entre las otras 3, dos se encuentran aisladas y consisten 
+en un solo nodo, mientras que la última comprende solo dos nodos.
 
 # Resultados clave
-### Hallazgos principales
-- **Red direccional ponderada** con 71 nodos
-- **Densidad**: 0.15 (conexiones moderadas)
-- **Nodo central**: ID-45 (grado = 28, betweenness = 120.5)
-- **3 comunidades principales** identificadas
+- Los análisis realizados sugieren que la red social tiene una estructura de baja densidad y alta vulnerabilidad, 
+lo que implica que contiene subgrupos o comunidades que se mantienen conectados a través de unos pocos nodos o <<puentes>>
+críticos. Esto significa que ciertos nodos son clave para mantener la cohesión de la red, y resulta fundamental identificar 
+estos nodos de influencia, así como comprender cómo podría fragmentarse la red si algunos de ellos se desconectaran.
+- La red tiene una baja densidad, lo que sugiere que no todos los nodos están interconectados. 
+Sin embargo, hay ciertos nodos con alta centralidad de grado e intermediación, 
+lo que implica que estos nodos son muy influyentes dentro de la red. Los nodos con alta intermediación
+controlan un flujo de información importante entre diferentes partes de la red, mientras que los nodos 
+con alto grado de centralidad probablemente tengan una gran visibilidad o popularidad.
 
 ### Insights
 - Los estudiantes de mayor grado pertenecen a la escuela 2
