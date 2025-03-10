@@ -81,7 +81,7 @@ en un solo nodo, mientras que la última comprende solo dos nodos.
 
 # Resultados clave
 - Los análisis realizados sugieren que la red social tiene una estructura de baja densidad y alta vulnerabilidad, 
-lo que implica que contiene subgrupos o comunidades que se mantienen conectados a través de unos pocos nodos o <<puentes>>
+lo que implica que contiene subgrupos o comunidades que se mantienen conectados a través de unos pocos nodos o "puentes"
 críticos. Esto significa que ciertos nodos son clave para mantener la cohesión de la red, y resulta fundamental identificar 
 estos nodos de influencia, así como comprender cómo podría fragmentarse la red si algunos de ellos se desconectaran.
 - La red tiene una baja densidad, lo que sugiere que no todos los nodos están interconectados. 
