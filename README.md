@@ -105,7 +105,7 @@ con alto grado de centralidad probablemente tengan una gran visibilidad o popula
 - igraph (análisis de redes)
 - ggplot2 (visualizaciones)
 - dplyr (manipulación de datos)
--Walktrap (deteccion de comunidades)
+- Walktrap (deteccion de comunidades)
 # Aplicaciones potenciales
 - Diseño de programas escolares contra el bullying
 - Identificación de estudiantes en riesgo social
