@@ -96,9 +96,9 @@ controlan un flujo de información importante entre diferentes partes de la red,
 con alto grado de centralidad probablemente tengan una gran visibilidad o popularidad.
 
 ### Insights
-- Los estudiantes de mayor grado pertenecen a la escuela 2
+- Los estudiantes de mayor grado controlan el flujo de información entre las distintas comunidades
 - Las mujeres muestran mayor diversidad en conexiones
-- Comunidades reflejan agrupaciones por escuela y actividades
+- Los nodos centrales (de mayor grado) son fundamentales para mantener la red conectada.
 
 # Tecnologías utilizadas
 **Lenguaje y herramientas**  
