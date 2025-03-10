@@ -89,6 +89,6 @@ El análisis se desarrolló en 6 etapas principales:
 - Optimización de estrategias de intervención comunitaria
 
 # Repositorio
-- 📌 Repositorio del proyecto: github.com/tuusuario/addhealth-redes
+- 📌 Repositorio del proyecto: [github.com/tuusuario/addhealth-redes](https://github.com/CamiiloP14/Analisis-de-Redes-Sociales)
 - 📧 Contacto: cpedreros488@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/tuperfil](https://www.linkedin.com/in/camilo-pedreros-106a1a245/)
